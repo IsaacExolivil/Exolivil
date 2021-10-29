@@ -1,0 +1,4 @@
+#Fri Oct 29 00:37:19 CDT 2021
+base.0=/Users/isaacloez/Desktop/Escritorio - MacBook Air de Isaac/Flutter Aplicaciones/exolivil_v2/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

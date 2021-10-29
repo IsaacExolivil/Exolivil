@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/exolivil_v2/BuildConfig.java
+ com.example.exolivil_v2.BuildConfig
